@@ -26,6 +26,9 @@ const me = {
 
 ```
 
+![](https://komarev.com/ghpvc/?username=jayymeson&style=flat)
+[![Github](https://img.shields.io/badge/-jayymeson-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/jayymeson)
+
 ##
 <div align="center">
   <a href="https://github.com/jayymeson">
