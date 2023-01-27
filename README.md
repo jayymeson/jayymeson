@@ -1,6 +1,6 @@
 # Hi there! 😁
 
-I'm Jaymeson Mendes, student of Web Developer Fullstack.
+I'm Jaymeson Mendes, Web Developer Fullstack.
 
 I have just started my career, but I have always been a technology enthusiast. My first contact with a computer was in 2001, when I was still with Windows 1998, since then, I never let go.
 
