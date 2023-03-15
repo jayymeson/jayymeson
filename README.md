@@ -14,14 +14,15 @@ const me = {
     askMeAbout: ["Web Dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Nest", "Express", "Docker", "RabbitMQ", "Microservices"],
+            js: ["Node", "Nest", "Express", "Microservices"],
         
         },
         frontEnd: {
             framework: ["HMLT", "CSS", "React", "vuejs"]
         },
         databases: ["mongo", "MySql", "Postgres", "sqlite"],
-    },
+        },
+        devOps: ["docker", "rabbitmq"]
 };
 
 ```
