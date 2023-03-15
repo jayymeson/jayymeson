@@ -14,11 +14,11 @@ const me = {
     askMeAbout: ["Web Dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Nest", "Express"],
+            js: ["Node", "Nest", "Express", "Docker", "RabbitMQ", "Microservices"],
         
         },
         frontEnd: {
-            framework: ["HMLT", "CSS", "React"]
+            framework: ["HMLT", "CSS", "React", "vuejs"]
         },
         databases: ["mongo", "MySql", "Postgres", "sqlite"],
     },
