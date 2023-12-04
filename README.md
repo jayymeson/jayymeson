@@ -38,15 +38,111 @@ const me = {
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jay-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jay-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="Jay-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Jay-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Jay-MongoDB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+   <img
+        align="center"
+        alt="Jay-Js"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Ts"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-React"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-HTML"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-CSS"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Nest"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Express"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Postgres"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-MongoDB"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Docker"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Vue"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg"
+      />
+      <img
+        align="center"
+        alt="Jay-Rabbitmq"
+        height="30"
+        width="40"
+        src="https://i.imgur.com/2zxaILn.png"
+      />
+      <img
+        align="center"
+        alt="Jay-Jest"
+        height="30"
+        width="40"
+        src="https://i.imgur.com/7FVDtC3.png"
+      />
+      <img
+        align="center"
+        alt="Jay-Microservice"
+        height="30"
+        width="40"
+        src="https://i.imgur.com/iCFQmQA.png"
+      />
+     <img
+        align="center"
+        alt="Jay-CI/CD"
+        height="30"
+        width="40"
+        src="https://i.imgur.com/Lnvh28s.png"
+      />
   
    ##
    
